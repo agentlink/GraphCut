@@ -3,7 +3,7 @@ GraphCut
 
 GraphCut With OpenCV For IOS
 
-GraphCut from http://vision.csd.uwo.ca/code/
+GraphCut from http://vision.csd.uwo.ca/code/  OneCut with Seeds
 
 update this for ios
 
